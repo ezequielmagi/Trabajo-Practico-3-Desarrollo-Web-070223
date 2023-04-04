@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root{
+    --VIOLET: #666CA3;
+    --BLACK: #13183F;
+    --GRAY: #83869A;
+    --VIOLET-RED: #F74780;
+    --PINK: #FFA7C3;
+    --WHITE: #FFF;
+    --GRADIENT-1: linear-gradient(#f02aa6,#ff6f48);
+    --GRADIENT-2: linear-gradient(#4851ff,#f02aa6);
+} 
+
